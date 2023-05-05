@@ -46,10 +46,3 @@ for machinename in list_of_machinname:
 
 # a = [machin for machin in list_of_machinname]
 # print(a)
-
-
-
-
-
-
-
